@@ -1,4 +1,7 @@
 # iptv
 List iptv source:
 - https://vthanhtivi.pw/list
-_ web
+_ https://google
+Líst epg source:
+- http://trada.ìnfo
+- http://baochinh
