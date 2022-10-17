@@ -4,4 +4,4 @@
   - https://google
 + Líst epg source:
   - http://trada.ìnfo
-  - http://baochinh
+  - http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml
