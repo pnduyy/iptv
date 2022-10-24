@@ -318,4 +318,11 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210702/mrqueen_38_tm_
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210702/mrqueen_39_tm_logo/466dea11d8b8cd94cad20b30c7197d01_720p.mp4/chunklist.m3u8
 #EXTINF:0, tvg-logo="https://img.freepik.com/premium-vector/click-movie-logo-vector_18099-258.jpg?w=826" group-title="Chàng Hậu [20 tập]", Chàng Hậu - Tập 20B - END
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210702/mrqueen_40_tm_logo/286d679dedd7e37201562729105ea310_720p.mp4/chunklist.m3u8
+# ```````````````PHIM BỘ THUYẾT MINH| LỜI HỒI ĐÁP 1988 [20 tập]````````````````https://danet.vn/series/1617163346/loi-hoi-dap-1988/tap-9.html
+#EXTINF:0, tvg-logo="https://img.freepik.com/premium-vector/click-movie-logo-vector_18099-258.jpg?w=826" group-title="Lời Hồi Đáp 1988 [20 tập]", Lời Hồi Đáp 1988- Tập 1
+https://hlss.xyz/cdn/hls/0a60c77dee1b1108a4ac0e9d030fa89a/master.m3u8
+#EXTINF:0, tvg-logo="https://img.freepik.com/premium-vector/click-movie-logo-vector_18099-258.jpg?w=826" group-title="Lời Hồi Đáp 1988 [20 tập]", Lời Hồi Đáp 1988- Tập 2
+https://hlss.xyz/cdn/hls/fd94d6bddec7306b6c7abacdc7ccd453/master.m3u8
+#EXTINF:0, tvg-logo="https://img.freepik.com/premium-vector/click-movie-logo-vector_18099-258.jpg?w=826" group-title="Lời Hồi Đáp 1988 [20 tập]", Lời Hồi Đáp 1988- Tập 3
+https://hlss.xyz/cdn/hls/6121432b4e5e854760ec6834594e0408/master.m3u8
 
